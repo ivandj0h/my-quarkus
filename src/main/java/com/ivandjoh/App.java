@@ -1,4 +1,4 @@
-package org.acme;
+package com.ivandjoh;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
